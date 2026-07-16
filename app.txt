@@ -1,4 +1,6 @@
-Application Version 1
+Application Version 2
 
 Dashboard Feature Added
+
+Main Branch Updated
 
